@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4c6b1ce072c4abd647d9239e933593a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/775aaffc5395fb87e9067920c1a79416/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/abd1d7edb21d3116cbc9d2ed77f7a0ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f3bd13dac3207f2d5eeeb38d1c7021cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1403b060ed03a7eef8e406f3bb0b51f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/43334af3460394400e688547b33ae7f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c61dc9d6becc4995080f95dc34c1874a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bd67df7ef6a88098a53be49c5f6327b6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d95fa908d6f8d92b7ba96114694b9a97/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8416c6d5e12b88044a402b528efdfe91/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bdf44da4497543f91dd00b915467c394/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eaef79b3b46537e24f2fcf07d1ea8e86/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/775aaffc5395fb87e9067920c1a79416/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/775aaffc5395fb87e9067920c1a79416/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.marcilio.somar.MainActivity
+ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4c6b1ce072c4abd647d9239e933593a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4c6b1ce072c4abd647d9239e933593a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/775aaffc5395fb87e9067920c1a79416/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/775aaffc5395fb87e9067920c1a79416/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/abd1d7edb21d3116cbc9d2ed77f7a0ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/abd1d7edb21d3116cbc9d2ed77f7a0ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f3bd13dac3207f2d5eeeb38d1c7021cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f3bd13dac3207f2d5eeeb38d1c7021cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1403b060ed03a7eef8e406f3bb0b51f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1403b060ed03a7eef8e406f3bb0b51f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/43334af3460394400e688547b33ae7f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/43334af3460394400e688547b33ae7f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c61dc9d6becc4995080f95dc34c1874a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c61dc9d6becc4995080f95dc34c1874a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bd67df7ef6a88098a53be49c5f6327b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/marcilio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bd67df7ef6a88098a53be49c5f6327b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d95fa908d6f8d92b7ba96114694b9a97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d95fa908d6f8d92b7ba96114694b9a97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8416c6d5e12b88044a402b528efdfe91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8416c6d5e12b88044a402b528efdfe91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bdf44da4497543f91dd00b915467c394/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bdf44da4497543f91dd00b915467c394/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eaef79b3b46537e24f2fcf07d1ea8e86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/marcilio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eaef79b3b46537e24f2fcf07d1ea8e86/AndroidManifest.xml:20:5-44
+INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+		ADDED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/marcilio/AndroidStudioProjects/Somar/app/src/main/AndroidManifest.xml
